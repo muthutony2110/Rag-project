@@ -2,7 +2,7 @@
 rag/
 rag2/
 venv/
-.env/
+.env
 *.pyc
 __pycache__/
 
