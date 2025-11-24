@@ -1,0 +1,16 @@
+# Virtual environments
+rag/
+rag2/
+venv/
+.env/
+*.pyc
+__pycache__/
+
+# Vector DB
+vector_store/
+faiss_index/
+*.faiss
+
+# OS & editor junk
+.DS_Store
+.vscode/
